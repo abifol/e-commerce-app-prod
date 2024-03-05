@@ -1,0 +1,56 @@
+:root {
+  --banner-width: 745px;
+  --font-family: Plus Jakarta Sans;
+}
+
+.main {
+  padding: 0px 0px 0px;
+  margin-left: 50px;
+  margin-right: 100px;
+}
+
+.card-body1 {
+  position: relative;
+  width: 16rem;
+  bottom: 100px;
+  left: 150px;
+  text-align: left;
+  font-size: small;
+}
+
+.title {
+  padding-left: 0px;
+  font-size: medium;
+}
+
+.oil {
+  padding-top: 0px;
+  left: 80px;
+}
+.tshirt {
+  padding-top: 40px;
+  left: 80px;
+}
+
+.box {
+  padding-top: 0px;
+  left: 80px;
+}
+
+.cardto {
+  width: 55px;
+  border: none;
+  left: 0px;
+}
+
+.cardt {
+  width: 55px;
+  border: none;
+  left: 0px;
+}
+
+.cardb {
+  width: 55px;
+  border: none;
+  left: 0px;
+}

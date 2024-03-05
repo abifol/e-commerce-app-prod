@@ -1,0 +1,23 @@
+:root {
+  --banner-width: 745px;
+  --font-family: Plus Jakarta Sans;
+}
+
+.card {
+  position: relative;
+  text-align: center;
+}
+
+.card-body {
+  position: absolute;
+  text-align: left;
+  top: 200px;
+  width: 15rem;
+}
+
+.btn {
+  color: white;
+  background-color: #2ebb77;
+  border-radius: 12px;
+  border: none;
+}

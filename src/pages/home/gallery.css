@@ -1,0 +1,50 @@
+:root {
+  --banner-width: 745px;
+  --font-family: Plus Jakarta Sans;
+}
+
+.row3 {
+  /* margin: auto; */
+}
+.card3 {
+  position: relative;
+  text-align: center;
+}
+
+.card-body3 {
+  position: absolute;
+  top: 0px;
+  width: 15rem;
+}
+
+.btn3 {
+  color: black !important;
+  background-color: white !important;
+  border-radius: 12px;
+  border: none;
+}
+
+.btnn {
+  top: 150px;
+  left: 20px;
+}
+
+.btnnn {
+  top: 150px;
+  left: 80px;
+}
+
+.btnm {
+  top: 400px;
+  left: 100px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+h6 {
+  text-align: center;
+  font-size: medium;
+}
