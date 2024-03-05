@@ -21,7 +21,7 @@ const footer = () => {
                 <img src={teespace} alt="" />
               </a>
               <ul class="list-unstyled small">
-                <li class="mb-2">hello@teespace.io .</li>
+                <li class="mb-2">hello@teespace.io .</li>npm start
                 <li class="mb-2">+02 036 038 3996 .</li>
                 <li class="mb-2">3665 Paseo Place, Suite 0960 .</li>
                 <li class="mb-2">San Diego .</li>
