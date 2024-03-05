@@ -50,7 +50,7 @@ const hero = () => {
               <li>
                 Price: $10 -- $160
                 <span class="li-value">
-                  <a href="" class="package-btn">
+                  <a href="/shop" class="package-btn">
                     Filter
                   </a>
                 </span>

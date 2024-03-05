@@ -1,0 +1,77 @@
+.d-inline-flex {
+  height: 20px;
+  width: 200px;
+}
+
+.package-header {
+  padding: 14px 10px;
+}
+.package-header .package-heading {
+  text-align: center;
+  margin-bottom: 6px;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 22px;
+}
+.package-header .package-price {
+  text-align: center;
+  margin-bottom: 4px;
+  color: #fff;
+}
+.package-body {
+  margin: 0;
+  padding: 5% 5%;
+  text-align: left;
+}
+.package-body ul {
+  padding: 0px !important;
+  display: block;
+}
+.package-body ul li {
+  list-style-type: none;
+  /* border-bottom: 1px solid #ccc; */
+  padding: 2% 0 2% 8px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #444444;
+  background-position: left 8px;
+  background-repeat: no-repeat;
+}
+.package-body ul h1 li {
+  color: black;
+  font-weight: 800;
+  margin-bottom: -40;
+}
+.package-body ul li i {
+  padding: 2px 5px;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #00bcd4;
+  border-radius: 50px;
+  margin-right: 8px;
+}
+.package-body ul li .li-value {
+  float: right;
+  padding: 0.15rem 0.3rem;
+  width: 65px;
+  background: 0 0;
+  color: #444;
+  font-weight: 700;
+  text-align: center;
+  font-size: 13px;
+}
+.package-btn {
+  padding: 8px 18px;
+  background-color: #a6a6a6da;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 2px 4px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+.breadcrumb-item {
+  display: flex;
+  align-items: center;
+  margin-left: 300px;
+}

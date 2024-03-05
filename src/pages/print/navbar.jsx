@@ -261,7 +261,7 @@ const navbar = () => {
                   <a
                     class="nav-link py-2 px-0 px-lg-2 active"
                     aria-current="true"
-                    href="/docs/5.3/getting-started/introduction/"
+                    href="/"
                     onclick="ga('send', 'event', 'Navbar', 'Community links', 'Docs');"
                   >
                     HOME
@@ -270,35 +270,35 @@ const navbar = () => {
                 <li class="nav-item col-6 col-lg-auto">
                   <a
                     class="nav-link py-2 px-0 px-lg-2"
-                    href="/docs/5.3/examples/"
+                    href="/services"
                     onclick="ga('send', 'event', 'Navbar', 'Community links', 'Examples');"
                   >
-                    TEESPACE
+                    SERVICES
                   </a>
                 </li>
                 <li class="nav-item col-6 col-lg-auto">
                   <a
                     class="nav-link py-2 px-0 px-lg-2"
-                    href="https://icons.getbootstrap.com/"
+                    href="/prints"
                     onclick="ga('send', 'event', 'Navbar', 'Community links', 'Icons');"
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    PRINT
+                  </a>
+                </li>
+                <li class="nav-item col-6 col-lg-auto">
+                  <a
+                    class="nav-link py-2 px-0 px-lg-2"
+                    href="/shop"
+                    onclick="ga('send', 'event', 'Navbar', 'Community links', 'Themes');"
                     target="_blank"
                     rel="noopener"
                   >
                     SHOP
                   </a>
                 </li>
-                <li class="nav-item col-6 col-lg-auto">
-                  <a
-                    class="nav-link py-2 px-0 px-lg-2"
-                    href="https://themes.getbootstrap.com/"
-                    onclick="ga('send', 'event', 'Navbar', 'Community links', 'Themes');"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    BLOG
-                  </a>
-                </li>
-                <li class="nav-item col-6 col-lg-auto">
+                {/* <li class="nav-item col-6 col-lg-auto">
                   <a
                     class="nav-link py-2 px-0 px-lg-2"
                     href="https://blog.getbootstrap.com/"
@@ -308,7 +308,7 @@ const navbar = () => {
                   >
                     PAGES
                   </a>
-                </li>
+                </li> */}
               </ul>
 
               <hr class="d-lg-none text-white-50" />

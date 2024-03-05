@@ -19,7 +19,7 @@ function ThreeCards() {
               <Card.Body>
                 <Card.Title>{card.title}</Card.Title>
                 <Card.Text>{card.text}</Card.Text>
-                <a href="#" className="btn btn-primary">
+                <a href="/services" className="btn btn-primary">
                   {card.buttonLabel}
                 </a>
               </Card.Body>

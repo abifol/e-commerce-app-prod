@@ -4,7 +4,8 @@ import facebook from "../../../src/assets/facebook-7442092_1280.png";
 import youtube from "../../../src/assets/youtube-logo-icon.png";
 import React from "react";
 import teespace from "../../../src/assets/teespace.png";
-import "../shop/footer";
+import "../shop/footer.css";
+import "bootstrap/dist/css/bootstrap.css";
 const footer = () => {
   return (
     <div>

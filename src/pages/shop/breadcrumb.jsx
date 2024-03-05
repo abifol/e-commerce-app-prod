@@ -7,7 +7,7 @@ const breadcrumb = () => {
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
           <li class="breadcrumb-item">
-            <a href="#" class="text-center my-5">
+            <a href="/services" class="text-center my-5">
               Shop
             </a>
           </li>
